@@ -1,0 +1,2 @@
+# Adequate
+This is CodeEditor
